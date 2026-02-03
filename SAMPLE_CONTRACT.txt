@@ -1,0 +1,37 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on January 15, 2024,
+between ABC Company Limited ("Company") and John Smith ("Employee").
+
+1. POSITION AND COMPENSATION
+The Employee is hired for the position of Senior Software Developer.
+The salary is ₹12,00,000 per annum, payable monthly.
+The employee is also eligible for performance bonuses.
+
+2. TERMINATION CLAUSE
+Either party may terminate this agreement with 30 days written notice.
+In case of gross misconduct or breach, the Company may terminate immediately.
+Upon termination, employee will receive severance of 1 month salary.
+
+3. NON-COMPETE CLAUSE
+The Employee agrees not to work for competitor companies for 2 years
+after termination of employment. This includes consulting work.
+Violation will result in immediate legal action.
+
+4. CONFIDENTIALITY
+All company information is strictly confidential and proprietary.
+The Employee must not disclose any trade secrets or client information
+during or after employment. Breach may result in substantial damages.
+
+5. INTELLECTUAL PROPERTY
+All work created by Employee during employment belongs entirely to the Company.
+The Company owns all patents, copyrights, and intellectual property rights.
+Employee waives all claims to IP created while employed.
+
+6. ARBITRATION
+Any disputes arising from this agreement shall be resolved through arbitration.
+The arbitration shall be binding and final with no right to appeal.
+
+7. ENTIRE AGREEMENT
+This agreement constitutes the entire agreement between parties.
+No other terms or conditions apply unless agreed to in writing.
